@@ -7,4 +7,4 @@
 ![Red de autores y revistas](red2.png)
 
 ## Red de revistas
-![Red de revisras](red3.png)
+![Red de revisras](red3_2.png)
